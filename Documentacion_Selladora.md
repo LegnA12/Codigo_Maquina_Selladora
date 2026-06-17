@@ -1,9 +1,9 @@
 ---
-title: Selladora 31 — Control ESP32
+title: Selladora — Control ESP32
 tags: [arduino, esp32, automatizacion, maquina-de-estados, portafolio]
 ---
 
-# Selladora 31 — Documentación Técnica
+# Selladora — Documentación Técnica
 
 > Sistema de control embebido para una **máquina selladora industrial**, implementado sobre un microcontrolador **ESP32** con Arduino Framework. El sistema controla un ciclo automático de sellado térmico mediante ventosas de sujeción, un pistón de sellado y un soplador de enfriamiento/expulsión, todo coordinado por una **máquina de estados finita (FSM)** no bloqueante basada en `millis()`.
 
