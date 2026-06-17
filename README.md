@@ -1,4 +1,4 @@
-# Código Máquina Selladora — Fungiterra
+# Código Máquina Selladora 
 
 Firmware de control embebido para una **máquina selladora industrial**, desarrollado sobre un microcontrolador **ESP32** con Arduino Framework. El sistema automatiza el ciclo completo de sellado térmico de empaques: sujeción del producto mediante ventosas, descenso del pistón de sellado, reposo de estabilización y soplado final de enfriamiento/expulsión, todo coordinado mediante una **máquina de estados finita (FSM)** no bloqueante basada en `millis()`.
 
